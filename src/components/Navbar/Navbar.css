@@ -1,0 +1,27 @@
+.app__navbar {
+    height: 65px;
+    width: 100%;
+    background: #131313;
+    position: fixed;
+    z-index: 2;
+}
+.app__navbar-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+li {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    padding-left: 3.2rem;
+    padding-right: 3.2rem;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}

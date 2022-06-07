@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.nav__montserrat {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.p__montserrat {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.h__monument {
+  font-family: var(--font-heading);
+  font-size: 5rem;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #131313;
+}
+::-webkit-scrollbar-thumb {
+  background: #717171;
+  border-radius: 5px;
+}

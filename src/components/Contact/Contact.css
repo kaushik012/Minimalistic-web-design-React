@@ -1,0 +1,77 @@
+.app__contact {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: right;
+    background: var(--color-contact);
+}
+.app__contact-img {
+    height: 550px;
+    width: 550px;
+    margin-left: 1rem;
+    margin-top: 4rem;
+}
+.app__contact-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.app__contact-desc {
+    margin-right: 4rem;
+    margin-top: 3rem;
+}
+.app__contact-desc .app__contact-intro h1{
+    font-family: var(--font-heading);
+    font-size: 3rem;
+}
+.app__contact-form {
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 30px;
+    column-gap: 30px;
+    margin-top: 30px;
+}
+.app__contact-form #message {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    height: 8rem;
+    color: rgba(139, 138, 138, 1);
+    font-family: var(--font-sans);
+    font-size: 1.4rem;
+    padding-left: 10px;
+}
+.app__contact-form #submit {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    color: rgba(139, 138, 138, 1);
+    font-family: var(--font-sans);
+    font-size: 1.4rem;
+    padding-left: 10px;
+}
+.app__contact-form #name,#email {
+    height: 55px;
+    width: 400px;
+    font-size: 1.4rem;
+    color: rgba(139, 138, 138, 1);
+    font-family: var(--font-sans);
+    padding-left: 10px;
+}
+.app__contact-form button {
+    cursor: pointer;
+    height: 55px;
+    border: none;
+    font-size: 1.4rem;
+    font-family: var(--font-sans);
+    color: rgba(139, 138, 138, 1);
+}
+.app__contact-form #subject {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    height: 55px;
+    font-size: 1.4rem;
+    font-family: var(--font-sans);
+    color: rgba(139, 138, 138, 1);
+    padding-left: 10px;
+}
