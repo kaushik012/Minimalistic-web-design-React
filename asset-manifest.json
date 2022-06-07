@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Minimalistic-web-design-React/static/css/main.e36883dd.css",
+    "main.js": "/Minimalistic-web-design-React/static/js/main.43362c04.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Minimalistic-web-design-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about.png": "/Minimalistic-web-design-React/static/media/about.7e04d417bd1b9f04545f.png",
+    "static/media/radio.png": "/Minimalistic-web-design-React/static/media/radio.4e0c728055c877c2af3e.png",
+    "static/media/home.png": "/Minimalistic-web-design-React/static/media/home.99a22fd7231a943a3e9a.png",
+    "static/media/camera.png": "/Minimalistic-web-design-React/static/media/camera.df4019186f86488443b4.png",
+    "static/media/vrheadset.png": "/Minimalistic-web-design-React/static/media/vrheadset.36956f1b5c99d557b395.png",
+    "static/media/contact.png": "/Minimalistic-web-design-React/static/media/contact.5f79e992b934c1d74933.png",
+    "static/media/service.png": "/Minimalistic-web-design-React/static/media/service.4ac12f813cd27e17d345.png",
+    "static/media/MonumentExtended-Black.otf": "/Minimalistic-web-design-React/static/media/MonumentExtended-Black.ddff780b9d2e70dda6b0.otf",
+    "index.html": "/Minimalistic-web-design-React/index.html",
+    "main.e36883dd.css.map": "/Minimalistic-web-design-React/static/css/main.e36883dd.css.map",
+    "main.43362c04.js.map": "/Minimalistic-web-design-React/static/js/main.43362c04.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Minimalistic-web-design-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36883dd.css",
+    "static/js/main.43362c04.js"
+  ]
+}
